@@ -33,8 +33,9 @@ Tabela de conteúdos
 
 ## Tabela de conteudo
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [ ] Cadastro de Professores
+- [ ] Cadastro de Alunos
+- [ ] Sistemas de comentarios
+- [ ] Sistemas de posts
 
 ## Como usar
