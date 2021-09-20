@@ -1,8 +1,11 @@
-<h1 align="center">Website de matematica</h1> 
+<p align="center">
+  <a href="https://unform.dev">
+    <img src="img/Logo.png" height="150" width="175" alt="Unform" />
+  </a>
+</p>
+<h1 align="center">Website sobre matemática</h1> 
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento.  🚧
-</h4>
+<p align="center">Site sobre conceitos e questões da matemática</p>
 
 Tabela de conteúdos
 =================
@@ -20,6 +23,9 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
+<h4 align="center"> 
+	🚧  Em desenvolvimento.  🚧
+</h4>
 
 ## Sobre
 
