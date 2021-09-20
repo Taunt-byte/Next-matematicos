@@ -1,10 +1,34 @@
-# Website de matematica 
+<h1 align="center">Website de matematica</h1> 
 
-Status: Em desenvolvimento
+<h4 align="center"> 
+	🚧  Em desenvolvimento.  🚧
+</h4>
 
-## Objetivo
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
 
-+ Aprender um pouco mais sobre a criação de sites
-+ Aprender mais sobre o CSS
 
-## Como começar
+## Sobre
+
+ É um projeto de website sobre matematica basica feito com o objetivo de treinar a matematica e resolver questoes sobre a mesma 
+
+## Tabela de conteudo
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
+
+## Como usar
