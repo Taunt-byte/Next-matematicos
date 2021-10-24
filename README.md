@@ -24,7 +24,7 @@ Tabela de conteúdos
 
 ## Sobre
 
- É um projeto de website sobre matematica basica feito com o objetivo de treinar a matematica e resolver questoes sobre a mesma 
+ É um projeto de website sobre matematica basica feito com o objetivo de fazer um sistema de comentarios e post e um cadastro de usuarios 
 
 ## Tabela de conteudo
 
