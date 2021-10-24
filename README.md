@@ -15,11 +15,6 @@ Tabela de conteúdos
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -39,3 +34,13 @@ Tabela de conteúdos
 - [ ] Sistemas de posts
 
 ## Como usar
+
+  -
+
+## Pre requisitos
+
+-
+
+## Tecnologias
+
+-
