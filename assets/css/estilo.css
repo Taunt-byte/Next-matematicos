@@ -1,6 +1,10 @@
 *{
     margin: 0;
     padding: 0;
-    text-decoration: none;
     color: rgb(0, 0, 0);
+}
+.inicial {
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
 }
