@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Website sobre matemática</h1> 
 
-<p align="center">Site sobre conceitos e questões da matemática</p>
+<p align="center">Site sobre conceitos da matemática</p>
 
 Tabela de conteúdos
 =================
