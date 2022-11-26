@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://unform.dev">
-    <img src="assets/img/Logo.png" height="150" width="175" alt="Unform" />
+    <img src="img/Logo.png" height="150" width="175" alt="Unform" />
   </a>
 </p>
 <h1 align="center">Website sobre matemática</h1> 
