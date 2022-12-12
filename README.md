@@ -12,6 +12,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Processo](#processo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
@@ -22,22 +23,26 @@ Tabela de conteúdos
 	🚧  Em desenvolvimento.  🚧
 </h4>
 
-## Sobre
+# Sobre
 
  É um projeto de website sobre matematica basica feito com o objetivo de fazer um sistema de comentarios e post e um cadastro de usuarios 
 
-## Tabela de conteudo
+# Tabela de conteudo
 
 - [ ] Cadastro de Professores
 - [ ] Cadastro de Alunos
 - [ ] Sistemas de comentarios
 - [ ] Sistemas de posts
 
-## Instalação
+# Processo
+
+Processo que foi realizado para a montagem desse repositorio.
+
+# Instalação
 
 -
 
-## Como usar
+# Como usar
 
   -
 
@@ -45,6 +50,6 @@ Tabela de conteúdos
 
 -
 
-## Tecnologias
+# Tecnologias
 
 -
